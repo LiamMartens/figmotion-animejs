@@ -1,0 +1,12 @@
+{
+  "name": "figmotion-animejs-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "animejs": "^3.2.0"
+  }
+}

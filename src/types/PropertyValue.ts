@@ -1,0 +1,1 @@
+export type PropertyValue = number | number[] | string | string[];

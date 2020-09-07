@@ -1,0 +1,15 @@
+#frame1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  width: 100px;
+  height: 100px;
+}
+
+#_561_2431_Rect_2 {
+  width: 61px;
+  height: 61px;
+  border-radius: 10px;
+  background-color: #c4c4c4;
+}

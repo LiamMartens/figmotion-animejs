@@ -1,0 +1,84 @@
+{
+  "_561_2431_Rect_2": {
+    "keyframes": {
+      "x": [
+        {
+          "property": "x",
+          "ms": 0,
+          "value": 50,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "property": "x",
+          "ms": 200,
+          "value": 100,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      ],
+      "width": [
+        {
+          "ms": 0,
+          "property": "width",
+          "value": 61.69593048095703
+        },
+        {
+          "ms": 200,
+          "property": "width",
+          "value": 120
+        }
+      ],
+      "fillColor": [
+        {
+          "ms": 0,
+          "property": "fillColor",
+          "value": [
+            196.00000351667404,
+            196.00000351667404,
+            196.00000351667404,
+            1
+          ]
+        },
+        {
+          "ms": 200,
+          "property": "fillColor",
+          "value": [
+            247,
+            3,
+            3,
+            1
+          ]
+        }
+      ],
+      "cornerRadius": [
+        {
+          "ms": 0,
+          "property": "cornerRadius",
+          "value": 10
+        },
+        {
+          "ms": 200,
+          "property": "cornerRadius",
+          "value": 20
+        }
+      ]
+    },
+    "anchor": {
+      "x": "CENTER",
+      "y": "MIDDLE"
+    },
+    "version": "1.0.0",
+    "type": "standalone"
+  }
+}

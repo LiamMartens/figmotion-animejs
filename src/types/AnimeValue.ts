@@ -1,0 +1,1 @@
+export type AnimeValue<E = HTMLElement> = number | string | number[] | string[] | ((el: E, index: number, length: number) => number | string | number[] | string[]);
