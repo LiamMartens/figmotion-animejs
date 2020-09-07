@@ -100,7 +100,6 @@ export const figmotionToAnimeTimeline = (
         timelineObject[prop] = timelineObject[prop].concat(keyframes[prop]);
       }
     }
-    console.log(timelineObject);
     t.add({
       targets: `#${childId}`,
       ...timelineObject,
